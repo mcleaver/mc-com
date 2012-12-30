@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mcleaver.github.com/mc-com/sitemap.xml 
